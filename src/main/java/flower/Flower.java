@@ -15,6 +15,7 @@ public class Flower {
     @Getter @Setter
     private FlowerType type;
 
+    /// getColor method
     public String getColor(){
         return this.color.toString();
     }

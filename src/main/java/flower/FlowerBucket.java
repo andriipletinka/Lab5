@@ -8,6 +8,7 @@ import java.util.List;
 public class FlowerBucket {
     private List<FlowerPack> flowerPacks = new ArrayList<>();
 
+    /// getPrice method
     public double getPrice() {
         double price = 0;
         for (int i = 0; i < flowerPacks.size(); i++) {
@@ -17,6 +18,7 @@ public class FlowerBucket {
         return price;
     }
 
+    /// add method
     public void add(FlowerPack flowerPack) {
         flowerPacks.add(flowerPack);
     }

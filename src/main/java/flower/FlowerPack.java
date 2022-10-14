@@ -11,6 +11,7 @@ public class FlowerPack {
     private Flower flower;
     private int quantity;
 
+    /// getPrice method
     public double getPrice() {
         return flower.getPrice() * quantity;
     }
