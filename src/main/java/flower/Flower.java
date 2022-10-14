@@ -1,3 +1,5 @@
+/// Flower class implementation
+
 package flower;
 
 import lombok.Getter;

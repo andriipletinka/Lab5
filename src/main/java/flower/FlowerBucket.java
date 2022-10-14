@@ -1,3 +1,5 @@
+/// FlowerBucket class implementation
+
 package flower;
 
 import java.util.ArrayList;

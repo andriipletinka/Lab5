@@ -1,3 +1,5 @@
+/// FlowerColor enum implementation
+
 package flower;
 
 public enum FlowerColor {

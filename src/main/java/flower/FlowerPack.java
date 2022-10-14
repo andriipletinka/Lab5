@@ -1,3 +1,5 @@
+/// FlowerPack class implementation
+
 package flower;
 
 import lombok.AllArgsConstructor;
