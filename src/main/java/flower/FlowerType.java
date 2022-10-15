@@ -1,3 +1,5 @@
+/// FlowerType enum implementation
+
 package flower;
 
 public enum FlowerType {

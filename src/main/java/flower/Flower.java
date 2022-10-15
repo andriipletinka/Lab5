@@ -1,3 +1,5 @@
+/// Flower class implementation
+
 package flower;
 
 import lombok.Getter;
@@ -13,7 +15,8 @@ public class Flower {
     @Getter @Setter
     private FlowerType type;
 
-    public String getColor(){
+    /// getColor method
+    public String getColor() {
         return this.color.toString();
     }
 }
