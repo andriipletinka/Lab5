@@ -5,10 +5,8 @@ package flower;
 import java.util.ArrayList;
 import java.util.List;
 
-/// Some comment
 public class FlowerBucket {
-    /// Some comment
-    private final List<FlowerPack> flowerPacks = new ArrayList<>();
+    public final List<FlowerPack> flowerPacks = new ArrayList<>();
 
     /// getPrice method
     public double getPrice() {
